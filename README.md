@@ -8,6 +8,6 @@ We want to build a hybrid recommendation engine that will not only recommend sim
 ### Introduction
 [About the Amazon Customer Reviews Dataset](https://s3.amazonaws.com/amazon-reviews-pds/readme.html)
 
-[The Proposal](https://github.com/dametreusv/amazon_hybrid_recommendation_system/blob/master/APR_Proposal.pdf
+[The Proposal](https://github.com/dametreusv/amazon_hybrid_recommendation_system/blob/master/APR_Proposal.pdf)
 
 [The Multilingual (US) Dataset](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt)
