@@ -12,3 +12,4 @@ We want to build a hybrid recommendation engine that will not only recommend sim
 [The Proposal](https://github.com/dametreusv/amazon_hybrid_recommendation_system/blob/master/APR_Proposal.pdf)
 
 [The Multilingual (US) Dataset](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt)
+- The dataset is too big to upload onto github (3.63gb) but can be found under the multilingual reviews portion of the link.  Just copy and paste the line within the link to download any of the datasets.
