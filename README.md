@@ -16,3 +16,8 @@ We want to build a hybrid recommendation engine that will not only recommend sim
 
 ### Data Wrangling
 [Data Acquisition and Cleaning](https://github.com/dametreusv/amazon_hybrid_recommendation_system/blob/master/APR_wrangle.ipynb)
+
+
+### Exploratory Data Analaysis
+[Data Analysis](https://github.com/dametreusv/amazon_hybrid_recommendation_system/blob/master/APR_analysis.ipynb)
+- [Data Analysis with Internal Navigation Links](https://nbviewer.jupyter.org/github/dametreusv/amazon_hybrid_recommendation_system/blob/master/APR_analysis.ipynb)
