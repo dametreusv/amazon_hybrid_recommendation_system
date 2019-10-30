@@ -22,9 +22,9 @@ We want to build a hybrid recommendation engine that will not only recommend sim
 
 ### Exploratory Data Analaysis
 [Data Analysis](https://github.com/dametreusv/amazon_hybrid_recommendation_system/blob/master/APR_analysis.ipynb)
-- [Data Analysis with Internal Navigation Links](https://nbviewer.jupyter.org/github/dametreusv/amazon_hybrid_recommendation_system/blob/master/APR_analysis.ipynb)
+- [Data Analysis with Internal Navigation Links](https://nbviewer.jupyter.org/github/dametreusv/amazon_hybrid_recommendation_system/blob/master/APR_analysis.ipynb){:target="_blank"}
 
 
 ### Milestone Report
 [Report via Github](https://github.com/dametreusv/amazon_hybrid_recommendation_system/blob/master/APR_mileston_report.ipynb)
-- [Report with Internal Navigation Links](https://nbviewer.jupyter.org/github/dametreusv/amazon_hybrid_recommendation_system/blob/master/APR_mileston_report.ipynb)
+- [Report with Internal Navigation Links](https://nbviewer.jupyter.org/github/dametreusv/amazon_hybrid_recommendation_system/blob/master/APR_mileston_report.ipynb){:target="_blank"}
