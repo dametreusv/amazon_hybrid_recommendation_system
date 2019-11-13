@@ -28,3 +28,7 @@ We want to build a hybrid recommendation engine that will not only recommend sim
 ### Milestone Report
 [Report via Github](https://github.com/dametreusv/amazon_hybrid_recommendation_system/blob/master/APR_milestone_report.ipynb)
 - [Report with Internal Navigation Links](https://nbviewer.jupyter.org/github/dametreusv/amazon_hybrid_recommendation_system/blob/master/APR_milestone_report.ipynb)
+
+
+### Recommendation Modules
+[Simple Keyword Search](https://github.com/dametreusv/amazon_hybrid_recommendation_system/blob/master/APR_recommender_keyword_simple.ipynb)
