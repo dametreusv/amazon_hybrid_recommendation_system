@@ -36,5 +36,7 @@ We want to build a hybrid recommendation engine that will not only recommend sim
 [Collaborative Filtering Recommender](https://github.com/dametreusv/amazon_hybrid_recommendation_system/blob/master/APR_recommender_collaborative.ipynb)
 
 --------
+
 For other data science related projects please go to [Springboard Data Science Projects](https://github.com/dametreusv/Springboard_Data_Science) or [Predicting Income Groups Using World Development Indicators](https://github.com/dametreusv/world_development_indicators/blob/master/README.md).
+
 -------
