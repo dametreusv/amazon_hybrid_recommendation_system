@@ -38,6 +38,6 @@ We want to build a hybrid recommendation engine that will not only recommend sim
 [Simple Keyword Search](https://github.com/dametreusv/amazon_hybrid_recommendation_system/blob/master/APR_recommender_keyword_simple.ipynb)
 
 [Collaborative Filtering Recommender](https://github.com/dametreusv/amazon_hybrid_recommendation_system/blob/master/APR_recommender_collaborative.ipynb)
-- [Collaborative Filtering Recommender with Internal Navigation Links](https://nbviewer.jupyter.org/github/dametreusv/amazon_hybrid_recommendation_system/blob/master/APR_recommender_collaborative.ipynb#Table%20of%20Contents)
+- [Collaborative Filtering Recommender with Internal Navigation Links](https://nbviewer.jupyter.org/github/dametreusv/amazon_hybrid_recommendation_system/blob/master/APR_recommender_collaborative.ipynb)
 
 
