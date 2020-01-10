@@ -2,8 +2,7 @@ For other data science related projects please go to [Springboard Data Science P
 
 -------
 
-# Amazon Customer Review Insights & Hybrid Product Recommendation Engine
-## Building a Hybrid Product Recommendation System for Amazon using Customer Ratings and Reviews
+# Amazon Customer Review Insights & Hybrid Product Recommendation System
 
 [Amazon Hybrid Recommendation System](https://github.com/dametreusv/amazon_hybrid_recommendation_system/blob/master/APR_final_report.ipynb)
 
