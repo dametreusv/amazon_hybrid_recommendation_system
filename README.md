@@ -32,3 +32,5 @@ We want to build a hybrid recommendation engine that will not only recommend sim
 
 ### Recommendation Modules
 [Simple Keyword Search](https://github.com/dametreusv/amazon_hybrid_recommendation_system/blob/master/APR_recommender_keyword_simple.ipynb)
+
+[Collaborative Filtering Recommender](https://github.com/dametreusv/amazon_hybrid_recommendation_system/blob/master/APR_recommender_collaborative.ipynb)
