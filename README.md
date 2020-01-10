@@ -11,7 +11,7 @@ We want to build a hybrid recommendation engine that will not only recommend sim
 
 -----------------
 
-<img src='https://raw.githubusercontent.com/dametreusv/amazon_hybrid_recommendation_system/master/visuals/recommendations.png' width='550'>
+<img src='https://raw.githubusercontent.com/dametreusv/amazon_hybrid_recommendation_system/master/visuals/rating_distributions.png'>
 
 ## Table of Contents
 --------------------------
@@ -86,9 +86,7 @@ In this case, we explore 3 different ways to use collaborative based filtering.
 
 1. The first method suggests products that other users like to a specific user based on their rating of a specific product.  Essentially, it finds users that rated a product similar to the specific user and returns the top products the other users liked.
 
-
 2. The second method predicts what products a user may like based on past rating history and the rating history of other users.  This method is not specific to the rating of one product like the first method.
-
 
 3. The third method predicts products similar to a specific product by finding the nearest neighbors to that product.  This method is good for users who may want to purchase products as bundles.
 
@@ -98,3 +96,5 @@ We evaluate our methods by:
 - Selecting and tuning various recommendation algorithms to find the best performing algorithm.
 - Understanding estimated ratings vs. true ratings.
 - Performing precision@k and recall@k tests.
+
+<img src='https://raw.githubusercontent.com/dametreusv/amazon_hybrid_recommendation_system/master/visuals/over_time.png'>
