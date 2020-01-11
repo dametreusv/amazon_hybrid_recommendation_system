@@ -97,5 +97,3 @@ We evaluate our methods by:
 - Selecting and tuning various recommendation algorithms to find the best performing algorithm.
 - Understanding estimated ratings vs. true ratings.
 - Performing precision@k and recall@k tests.
-
-<img src='https://raw.githubusercontent.com/dametreusv/amazon_hybrid_recommendation_system/master/visuals/over_time.png'>
