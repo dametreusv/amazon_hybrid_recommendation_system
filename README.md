@@ -97,3 +97,6 @@ We evaluate our methods by:
 - Selecting and tuning various recommendation algorithms to find the best performing algorithm.
 - Understanding estimated ratings vs. true ratings.
 - Performing precision@k and recall@k tests.
+
+---------------
+For other data science related projects please go to [Springboard Data Science Projects](https://github.com/dametreusv/Springboard_Data_Science) or [Predicting Income Groups Using World Development Indicators](https://github.com/dametreusv/world_development_indicators/blob/master/README.md).
