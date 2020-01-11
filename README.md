@@ -47,6 +47,7 @@ We want to build a hybrid recommendation engine that will not only recommend sim
 
 ### Final Report
 [Amazon Customer Review Insights & Recommendation System](https://github.com/dametreusv/amazon_hybrid_recommendation_system/blob/master/APR_final_report.ipynb)
+[APR Slide Deck](https://github.com/dametreusv/amazon_hybrid_recommendation_system/blob/master/APR_slidedeck.pdf)
 
 --------
 
